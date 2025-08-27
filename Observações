@@ -1,0 +1,55 @@
+Os CSVs selecionados foram os que utilizam a classificação SH4 modelo. O Sistema
+Harmonizado (SH) é uma classificação internacional de mercadorias, padronizada pela
+Organização Mundial das Alfândegas. Cada produto tem um código numérico que o identifica,
+e isso é usado em exportações e importações no mundo inteiro.
+
+## #**Anos que serão analisados:**
+##### ● **2018**
+○ Contexto: Último ano do governo Temer; estabilidade relativa antes da
+eleição presidencial.
+○ Relevância: Serve como ano-base de comparação com os anos
+seguintes.
+○ Destaques: Crescimento econômico moderado e reformas estruturais em
+discussão.
+
+##### ● **2020**
+○ Contexto: Forte impacto da pandemia nas cadeias globais de
+suprimentos.
+○ Relevância: Queda nas exportações e importações em diversos setores;
+mudanças na demanda mundial.
+○ Destaques: Alta do dólar, aumento das exportações de commodities
+como soja e minério de ferro no segundo semestre.
+
+##### ● **2022**
+○ Contexto: Recuperação parcial do comércio global + ano eleitoral.
+○ Relevância: Mudanças no mix de parceiros comerciais e volatilidade
+econômica.
+○ Destaques: Influência do cenário internacional (guerra na Ucrânia,
+inflação global), crescimento da pauta de exportações para China e EUA.
+
+##### ● **2024**
+○ 2024: Possível estabilização e implementação de novas políticas
+comerciais.
+
+**○ Relevância:** Avaliar os efeitos de políticas públicas recentes, como
+acordos internacionais ou incentivos à industrialização.
+**○ Destaques:** Retomada das relações comerciais com alguns parceiros,
+nova ênfase no Mercosul e em exportações com valor agregado.
+
+## Passos iniciais:
+1. Compreender o que cada coluna aponta(siglas)
+2. Encontrar onde está cada código apontado pelas colunas
+3. Criar um dicionário de siglas e códigos
+4. Limpeza de dados:
+a. Colocar pontos em valores monetários
+b. Padronizar corretamente os marcadores seja “,” ou “;”
+
+## Manipulação de dados:
+1. Criar coluna que exibe o nome do país de destino do produto de acordo com o
+código exibido
+2. Criar coluna que exibe o tipo de produto ao lado do código do produto
+Análise:
+1. Comparar diferentes anos
+2. Escolher o tipo de alteração que desejamos investigar
+3. Commodities, indústria ou geopolítica
+4. Relações EUA/China
