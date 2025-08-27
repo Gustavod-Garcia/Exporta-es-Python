@@ -1,6 +1,7 @@
 # **Análise de Dados com Python**
 
 Este é um projeto de análise de dados desenvolvido com Python, com o objetivo de praticar e demonstrar meu aprendizado contínuo em ciência de dados e programação.
+https://youtu.be/0eN4x0AfUBs
 _________________________________________________________________________________________________________________________________
 ## **Objetivo**
 O principal objetivo deste projeto é aplicar conceitos básicos e intermediários de:
